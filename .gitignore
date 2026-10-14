@@ -1,0 +1,12 @@
+# Secrets: never commit your real API key
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
